@@ -1,2 +1,7 @@
-# AI-powered Indian license plate detector.
-Check out the blog here: https://towardsdatascience.com/ai-based-indian-license-plate-detector-de9d48ca8951
+# license plate detector end to end.
+open notebook and run this cell step by step.
+
+## Prerequisites:
+OpenCV , Haar cascade , Keras, sk-learn
+
+
